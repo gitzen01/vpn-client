@@ -1,5 +1,7 @@
 FROM ghcr.io/hassio-addons/base:21.0.0
-
+# https://github.com/hassio-addons/app-base/pkgs/container/base
+# https://developers.home-assistant.io/blog/2026/04/02/builder-migration/
+# https://github.com/home-assistant/supervisor/issues/6794
 ENV LANG C.UTF-8
 
 # Setup base
