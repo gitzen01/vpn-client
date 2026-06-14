@@ -1,6 +1,5 @@
 ARG BUILD_FROM
 #FROM ${BUILD_FROM}
-FROM ghcr.io/hassio-addons/base:21.0.0
 
 ENV LANG C.UTF-8
 
