@@ -4,10 +4,10 @@ url: https://github.com/gitzen01/vpn-client/
 version: "0.0.3"
 slug: "tinc"
 init: false
-build_from:
-  amd64: ghcr.io/hassio-addons/base:21.0.0
 arch:
   - amd64
+build_from:
+  amd64: ghcr.io/hassio-addons/base:21.0.0
 hassio_api: true
 host_network: true
 privileged:
