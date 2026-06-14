@@ -6,8 +6,6 @@ slug: "tinc"
 init: false
 arch:
   - amd64
-build_from:
-  amd64: ghcr.io/hassio-addons/base:21.0.0
 hassio_api: true
 host_network: true
 privileged:
