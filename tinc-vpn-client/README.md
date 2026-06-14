@@ -6,7 +6,7 @@ Follow these steps to get the add-on installed on your system:
 
 1. Navigate in your Home Assistant frontend to `Settings` -> `Add-ons` -> `Add-on Store (Bottom Right)`.
 
-2. Click the 3-dots menu at upper right `...` > `Repositories` and add this repository's URL: [https://github.com/mdzidic/hassio-tinc-vpn-client][repository].
+2. Click the 3-dots menu at upper right `...` > `Repositories` and add this repository's URL: [https://github.com/gitzen01/vpn-client][repository].
 
 3. Reload the page, scroll to the bottom to find the new repository, and click the new add-on named "Home Assistant Tinc VPN Add-on" (refresh the cache if it doesn't appear).
 
